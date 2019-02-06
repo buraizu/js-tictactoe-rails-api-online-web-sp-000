@@ -1,5 +1,7 @@
 # jQuery Tic-Tac-Toe with a Rails API — Part 2
 
+// $("table").prop('disabled', true);
+
 Congratulations on setting up your Rails API back-end! Hopefully you took a short break to celebrate because the real fun starts now.
 
 In this second installment, you're tasked with building out a JavaScript front-end to place on top of the Rails API we created in the previous exercise. For reference, [here's the video](http://flatiron-videos.s3.amazonaws.com/Learn%20Curriculum%20Helpers/ttt.mov) showing how the final product should function. (Right-click and `Save Link As...` to download.)
